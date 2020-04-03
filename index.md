@@ -6,8 +6,6 @@
 #####  compassComp 框架目录 [链接文字](https://js-spider.github.io/CUSCPS/ "compassComp")
 
   ```
- 
-  
  ├── bcomponents          业务组件
     |—— Ellipsis          文字长度限制
     |—— resource          资源滑块组件
