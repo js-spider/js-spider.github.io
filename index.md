@@ -3,7 +3,7 @@
 ### 项目结构
 
 
-#####  compassComp 框架目录 [链接文字](https://js-spider.github.io/CUSCPS/ "compassComp")
+#####  compassComp 框架目录 [https://js-spider.github.io/CUSCPS/](https://js-spider.github.io/CUSCPS/ "compassComp")
 
   ```
  ├── bcomponents          业务组件
