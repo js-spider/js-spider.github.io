@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/js-spider/js-spider.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 项目结构
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+#####  compassComp 框架目录 [链接文字](https://js-spider.github.io/CUSCPS/ "compassComp")
 
-```markdown
-Syntax highlighted code block
+  ```
+ 
+  
+  ├── bcomponents      存放我们的业务组件
+  ├── components       存放基础组件
+  │   ├── resource       资源组件
+  │   └── tag            标签组件 
+  ├── index.js         入口文件
+  ├── style            样式文件
+  │   ├── index.js        
+  │   ├── index.less      入口样式
+  │   ├── minxins         less minxins
+  │   └── themes          默认主题
+  ├── utils            工具目录
+  │   └── utils.js     工具类
+  ```
 
-# Header 1
-## Header 2
-### Header 3
+##### 组件目录
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/js-spider/js-spider.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+├── resource                  resource组件文件夹
+│   ├── index.js                入口文件
+│   ├── index.less              less描述文件
+│   ├── index.mdx               文档和案例
+│   ├── resource.js             组件内容
+│   ├── resourceContext.js      组件内容
+│   └── resourceGroup.js        组件内容
+└── tag                       tag组件
+    ├── index.js                入口文件
+    └── index.mdx               文档和案例
+```
