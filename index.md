@@ -16,7 +16,7 @@
   
   ```
 
-##### 组件目录
+#####  zetyun-component 框架目录 [https://js-spider.github.io/zetyun-site/](https://js-spider.github.io/zetyun-site/ "compassComp")
 
 ```
 ├── resource                  resource组件文件夹
